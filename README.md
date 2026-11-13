@@ -204,4 +204,4 @@ AVS DVD Player is the full free version software with all features and updates i
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-12 23:23:10 UTC
+**Last updated:** 2026-11-13 05:55:44 UTC
